@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Fiksikkk
-- 👀 I’m interested in JavaScript, React.js, Node.js, Nest.js
-- 🌱 I’m currently learning React and Nest
 - 📫 How to reach me: tg @fiksik_k
 
 <!---
